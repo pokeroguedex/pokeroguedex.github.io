@@ -1,0 +1,10 @@
+.github
+test
+docs
+
+# p
+/p/*
+!/p/src/data/pokemon-species.ts
+
+# l
+/l/*
