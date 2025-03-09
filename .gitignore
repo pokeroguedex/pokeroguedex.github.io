@@ -4,7 +4,17 @@ docs
 
 # p
 /p/*
+!/p/src
+/p/src/*
+!/p/src/data
+/p/src/data/*
+!/p/src/data/ability.ts
+!/p/src/data/move.ts
+!/p/src/data/pokemon-forms.ts
 !/p/src/data/pokemon-species.ts
+!/p/src/data/terrain.ts
+!/p/src/data/type.ts
+!/p/src/data/weather.ts
 
 # l
 /l/*
